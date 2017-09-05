@@ -27,4 +27,3 @@ function dec(a){
 function makeInt(a){
   return parseIne(a,10);
 }
-
